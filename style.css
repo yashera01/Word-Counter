@@ -1,0 +1,26 @@
+body{
+    padding: 0px 100px;
+}
+h1
+{
+    text-align: center;
+    background-color:cornsilk;
+    padding: 10px;
+    margin: 0px;
+    font-weight: bold;
+    border-style: double;
+    border-color: black;
+}
+#textbox{
+    width: 99.3%;
+    border-color: black;
+    font-size: 15px;
+}
+p{
+    text-align: center;
+    background-color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0px ;
+}   
